@@ -1,0 +1,49 @@
+h1{
+	font-size: 4em;
+}
+h2{
+	font-size: 3em;
+}
+body {
+	background-color: #ffb18f;
+	margin: 0;
+	padding: 0;
+	color:white;
+}
+
+p {
+	font-size: 1.5em;
+}
+
+#text {
+	float:left;
+	margin: auto;
+	width: 46%;
+	height: 650px;
+	padding: 0px 10px 0px 10px;
+	border-style: solid;
+	border-width: 5px;
+}
+
+#container {
+	width: 100%;
+	height: 80%;
+	padding-top: 0%;
+	margin: auto;
+	text-align: center;
+	font-family: animated_font;
+}
+
+iframe {
+	float: left;
+	background-color: #ffb18f;
+	border-style: solid;
+	border-width: 5px;
+	border-color: white;
+	margin: auto;
+}
+
+@font-face {
+	font-family: animated_font;
+	src: url('../resources/Animated.ttf');
+}

@@ -11,6 +11,6 @@ This is a game featuring Tappy, a cat who just wants some love. Your goal is to 
 
 Don't make Tappy wait too long! The longer the "petting session", the more impatient Tappy gets(the meter decreases faster). Tap on Tappy to begin the game!
 
-* Uses HTML5
+* Uses HTML5 & p5.js
 * Visit the page here:
 http://i6.cims.nyu.edu/~mc4514/drawing-on-the-web/finalproject
